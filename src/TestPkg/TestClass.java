@@ -4,6 +4,7 @@ public class TestClass {
 
 	
 	public static void main(String[] args) {
-		added;
+		int a=10,b=20;
+		System.out.println(a+b);
 	}
 }
